@@ -14,12 +14,12 @@ then clone repository, with submodules.
 ```
 sudo git clone --recurse-submodules https://github.com/cadexdev/CaexGUI.git
 ```
-# After that you need to build the wallet
+### After that you need to build the wallet
 ```
 sudo mkdir build && cd build && sudo cmake .. && sudo make
 ```
-#Cadex GUI wallet will be in the build directory in the as #CADEX run in terminal or double click #CADEX to open the wallet
-run in terminal as 
+Cadex GUI wallet will be in the build directory in the as CADEX run in terminal or double click CADEX to open the wallet
+####run in terminal as 
 ```
 sudo ./CADEX
 ```
