@@ -25,7 +25,10 @@ sudo ./CADEX
 ```
 
 * For Mac 
-### Install Dependencies for Mac 
+### Install Dependencies for Mac
+
+#### Install Qt 5.9 from Qt website [download link](http://qt.io/download)
+
 #### Install boost
 ```
 brew install boost
@@ -33,11 +36,13 @@ brew install boost
 #### Install cmake
 ```
 brew install cmake
-
 ```
 #### Clone the repository including the submodules.
 ```
 sudo git clone --recurse-submodules https://github.com/cadexdev/CadexGUI.git
 ```
-
+#### To build the Cadex GUI Wallet for Mac, run
+```
+mkdir build && cd build && cmake .. && make
+```
 
