@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CADEX-Wallet
+GenericName=CADEX-Wallet
+Name[uk]=CADEX-Wallet
+Name[de]=CADEX-Wallet
+Name[es]=CADEX-Wallet
+Comment=CADEX-Wallet
+Comment[uk]=CADEX-Wallet
+Comment[de]=CADEX-Wallet
+Comment[es]=CADEX-Wallet
+Exec=CADEX %U
+Terminal=false
+Type=Application
+Icon=CADEX
+MimeType=x-scheme-handler/CADEX;
+Categories=Office;Finance;
+Version=1.2.0
