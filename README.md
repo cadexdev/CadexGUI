@@ -27,7 +27,7 @@ sudo ./CADEX
 * For Mac 
 ### Install Dependencies for Mac
 
-#### Install Qt 5.9 from Qt website [download link](http://qt.io/download)
+ Install Qt 5.9 from Qt website [download link](http://qt.io/download)
 
 #### Install boost
 ```
