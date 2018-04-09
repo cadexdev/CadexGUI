@@ -19,23 +19,23 @@ sudo git clone --recurse-submodules https://github.com/cadexdev/CaexGUI.git
 sudo mkdir build && cd build && sudo cmake .. && sudo make
 ```
 Cadex GUI wallet will be in the build directory in the as CADEX run in terminal or double click CADEX to open the wallet
-####run in terminal as 
+#### Run in terminal as 
 ```
 sudo ./CADEX
 ```
 
 * For Mac 
-# Install Dependencies for Mac 
-#Install boost
+### Install Dependencies for Mac 
+#### Install boost
 ```
 brew install boost
 ```
-#Install cmake
+#### Install cmake
 ```
 brew install cmake
 
 ```
-#Clone the repository including the submodules.
+#### Clone the repository including the submodules.
 ```
 sudo git clone --recurse-submodules https://github.com/cadexdev/CadexGUI.git
 ```
