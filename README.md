@@ -3,9 +3,9 @@
 ![image](https://i.imgur.com/19HrseK.png)
 
 Cadex is a cryptonote base coin, that carry privacy as its watch word. This is the source for its GUI
-### Compilation of CADEX GUI 
+# Compilation of CADEX GUI 
 * For LINUX 
-# Install Dependencies
+### Install Dependencies
 ```
 apt-get install -y cmake libboost-dev libboost-date-time-dev libboost-program-options-dev libboost-regex-dev libboost-serialization-dev libboost-system-dev libboost-thread-dev libboost-chrono-dev libboost-filesystem-dev
 ```
