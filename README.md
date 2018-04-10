@@ -12,7 +12,7 @@ apt-get install -y cmake libboost-dev libboost-date-time-dev libboost-program-op
 
 then clone repository, with submodules.
 ```
-sudo git clone --recurse-submodules https://github.com/cadexdev/CaexGUI.git
+sudo git clone --recurse-submodules https://github.com/cadexdev/CadexGUI.git
 ```
 ### After that you need to build the wallet
 ```
